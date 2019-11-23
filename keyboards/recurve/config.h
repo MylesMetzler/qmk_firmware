@@ -49,13 +49,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* COL2ROW, ROW2COL, or CUSTOM_MATRIX */
 #define DIODE_DIRECTION COL2ROW
 
-#define RGB_DI_PIN B4
-#define RGBLED_NUM 16
-#define RGBLIGHT_ANIMATIONS
-#define RGBLIGHT_HUE_STEP 12
-#define RGBLIGHT_SAT_STEP 255
-#define RGBLIGHT_VAL_STEP 12
-
 // #define BACKLIGHT_PIN B7
 // #define BACKLIGHT_BREATHING
 // #define BACKLIGHT_LEVELS 3
